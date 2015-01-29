@@ -40,6 +40,18 @@ body {
  	font-size: 12px;
  }
 
+.authors img {
+	width: 20px;
+	height: 20px;
+}
+
+ul .authors {
+	float:right;
+	margin: 0;
+	padding:0 0 0 5px;
+}
+
+
 
 
 
