@@ -51,6 +51,17 @@ ul .authors {
 	padding:0 0 0 5px;
 }
 
+.image-number {
+	color: LightGrey;
+	text-align: left;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.image-number::before { 
+    content: "#";
+}
+
 
 
 
